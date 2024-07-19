@@ -13,6 +13,12 @@ export const navigation = [
         path: '/crm-contact-details',
       },
     ],
+    items:[
+      {
+        text:'Setups',
+        path:'/crm-contact-details'
+      }
+    ]
   },
   {
     text: 'Planning',
